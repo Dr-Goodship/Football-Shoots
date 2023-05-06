@@ -117,3 +117,5 @@ get_leagues_meta()
 test <- get_match_stats(match_id = 11662)
 get_team_meta(team_name = "Newcastle United")
 
+head()
+
